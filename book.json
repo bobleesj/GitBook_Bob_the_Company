@@ -6,8 +6,7 @@
     "isbn": "",
 
     "plugins": [
-       "image-captions",
-       "disqus"
+       "image-captions"
      ],
 
      "pluginsConfig": {
@@ -18,4 +17,4 @@
      "styles": {
        "website": "website.css"
      }
-}
+    }
