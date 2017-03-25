@@ -55,22 +55,17 @@ Progress, documentation
 
 ### Social Technologies
 
-### Virtual Reality
+## Virtual Reality
 When you put a 360 camera, you are able to interact with the teacher such as chemicals. Science, and so on.
 
 What if you don't need a manager? You are in a group. What do we do?
 
-  > Provide Kit for them to record videos on their phone. Light sources, phone holder, bluetooth switch.
+> Provide Kit for them to record videos on their phone. Light sources, phone holder, bluetooth switch.
 > University. You have to pass the test. The manager will check the score, and judge whether the person can become an instructor or not. The test should be interview process. If you pass the interview, you will get money.
 
 
-## 16 Time Wasters of Entrepreneur - Patrick Bet David
-The first is doing the $10 hour jobs. Cleaning, cooking, ironing clothes, washing clothes. The second: Blaming. When you get upset at someone, you don't get anything but waste time. The third: Worrying about going out of business. People can sue you and people can try anything to destroy your business. However, there is no one can stop me from working. The difference between worrying is paranoid is being proactive vs passive. The fourth: Keep thinking about what other businesses do. If every action comes from the competitors, then we are one step behind. Always beat your prior best. Eventually you will find yourself competing with a handful of competitors. Innovate, innovate, compete. Repeat. The fifth: Turn off notification on your phone. The sixth: Hiring someone again for cheap. How much does it take for someone to understand you? How much social capital do you have? The seventh: Constantly thinking about people left. The ninth: Constantly wasting time on NewsFeed. 41% is Facebook. 37% LinkedIn 31% Yahoo. The ninth: Wasting time with online butterflies. The tenth: there are too many meetings. The eleventh: Chasing the big account instead of smaller sales
-
 ## Exponential Organization.
-기하급수 기업은 6D를 따른다. Digitized, Deceptive, Disruptive, Dematerialize, Demonetize, Demecratize.
-
-<img src="/Content/07_The_Day/images/Price_Change.jpg"/>
+Exponential organizations follow 6Ds: Digitized, Deceptive, Disruptive, Dematerialize, Demonetize, Demecratize.
 
 5년 정도 후에는 대부분의 사람들이 3D 프린터를 사서 장난감이나 식기, 연장, 부품 등을 만들어낼 수 있다는 이야기다. 중국 경졔는 10년 내에 3D 프린팅 기술 때문에 심각한 위협을 받을 수도 있다는 이야기다.
 
@@ -134,32 +129,17 @@ Interface, Dashboard, Experimentation, Autonomy, Social technologies
 
 지금 웹 이용자들은 하루에 10억 개의 가까운 사진을 소셜미디어에 올린다.
 
-2003 하버드 비즈니스 리뷰에는 "키워야 할 수치 하나" 는 `고객 순추천지수`, `Net Promoter Score`. 우리 회사, 제품, 서비스를 친구나 동료에게 추천할 가능성이 얼마나 되는가? 고객 순추천수가 높다면 세일즈는 공짜로 이워진다.
-
-5개년 계획은 끝났다.
-
-작아야 이긴다.
-
-사지말고 빌려라: 직원 크라우드 컴퓨팅,
-
-통제보다는 신뢰. 페쇄보다는 개방을 택하라. 구글의 OKR시스템은 기업 전반에서 투명하게 운영된다. 구글 직원이면 누구나 다른 동료 또는 팀의 OKR을 찾아보고, 그들이 무엇을 하려고 하는지 과거에 얼마나 성공적이었는지 찾아볼 수 있다.
-
-페이스북 개발팀은 경졍진으로 완전한 신뢰를 누렸다. 그 어느 팀이는 다른 부서의 감독 없이 실제 사이트에 새로운 코드를 적용해도 되었던 것이다. 개인이 평판이 걸려 있고 조잡한 코딩을 잡알줄 사람이 아무도 없다면, 직원들은 단 하나의 실수도 저지르지 않으려고 훨씬 노력하게 된다.
-
-측정 불가는한 것도, 알아내지 못할 것도 없다. BMW는 2000개 비행기에는 3000개 등의 센서가 달려있다.구글 자동차는 주변 환경을 64개의 레이저도 스캔하는 라이다가 있어서 차량 한 대다 1초마다 거의 기바바이트에 이르는 데이터를 수집한다.
+2003 하버드 비즈니스 리뷰에는 "키워야 할 수치 하나" 는 `고객 순추천지수`, `Net Promoter Score`. 우리 회사, 제품, 서비스를 친구나 동료에게 추천할 가능성이 얼마나 되는가? 고객 순추천수가 높다면 세일즈는 공짜로 이워진다. 5개년 계획은 끝났다. 작아야 이긴다. 사지말고 빌려라: 직원 크라우드 컴퓨팅, 통제보다는 신뢰. 페쇄보다는 개방을 택하라. 구글의 OKR시스템은 기업 전반에서 투명하게 운영된다. 구글 직원이면 누구나 다른 동료 또는 팀의 OKR을 찾아보고, 그들이 무엇을 하려고 하는지 과거에 얼마나 성공적이었는지 찾아볼 수 있다. 페이스북 개발팀은 경졍진으로 완전한 신뢰를 누렸다. 그 어느 팀이는 다른 부서의 감독 없이 실제 사이트에 새로운 코드를 적용해도 되었던 것이다. 개인이 평판이 걸려 있고 조잡한 코딩을 잡알줄 사람이 아무도 없다면, 직원들은 단 하나의 실수도 저지르지 않으려고 훨씬 노력하게 된다. 측정 불가는한 것도, 알아내지 못할 것도 없다. BMW는 2000개 비행기에는 3000개 등의 센서가 달려있다. 구글 자동차는 주변 환경을 64개의 레이저도 스캔하는 라이다가 있어서 차량 한 대다 1초마다 거의 기바바이트에 이르는 데이터를 수집한다.
 
 ## 우리 회사는 얼마나 기하급수적인가
  - 우리 회사는 얼마나 기하급수적인가?
  - 이렇게 새로운 세상에 대해 우리는 얼마나 대비가 되어 있는가?
  - 가하급수 기업이 되려면 우리는 무엇을 바꾸어야 하는가?
 
-
  기하습수 기업의 속성을 4가지 이상만 시행해도 10배의 실적 향샹을 이룰 수 있다.
 
 ## Part 2: 기하급수 기업을 어떻게 만들 것인가
-지금은 비즈니스 역사상 창업을 하기에 가장 좋으 시기일 것이다. 획기적인 기술들이 개발되었고 크라우드소싱이나 크라우드펀딩 기회가 있고, 기존 시장은 퐈괴절 혁신을 요구하고 있기 때문이다.
-
-1995년 실리콘밸리에서 스타트업을 세우려면 1,500만 달러가 들었다. 2005년이 되자 400만 달려, 현제는 10만 달러도 채 들지 않는다.
+지금은 비즈니스 역사상 창업을 하기에 가장 좋으 시기일 것이다. 획기적인 기술들이 개발되었고 크라우드소싱이나 크라우드펀딩 기회가 있고, 기존 시장은 퐈괴절 혁신을 요구하고 있기 때문이다. 1995년 실리콘밸리에서 스타트업을 세우려면 1,500만 달러가 들었다. 2005년이 되자 400만 달려, 현제는 10만 달러도 채 들지 않는다.
 
 ### 1단계: MTP를 선정하다
 우버의 CEO 트래비스 캘러닉이, "스스로를 알고 스타트업 아이디어와 목적을 찾아내야 한다. 사업가로서의 당신이 아니라 사람으로서의 당신에게 꼭 맞는 아이디어와 목적을 찾아야 한다". 거대한가. 변화를 불러오는가. 목적의식이 있는가. 이윤이라는 동기만으로는 기하급수 기업을 세우기에도 충분하지 않다. 사업가로 하여금 모든 스타트업이 겪을 수밖에 없는 흥분과 절망의 롤러코스터를 넘게 해주는 것이 끈질기고 복잡한 문제를 해결하고자 하는 불타는 열정이다.
@@ -185,14 +165,13 @@ Interface, Dashboard, Experimentation, Autonomy, Social technologies
 
 ### 5단계: 비즈니스 모델을 만든다.
 
-
-
-## Github
+## Case Studies
+### Github
 6년 동안 기트허브가 만들어낸 커뮤니티에서는 600만 명이 넘는 개발자들이 1500만 개가 넘는 오픈소스 소프트웨어 프로젝트로 협업해 왔다. 더욱 중요한 것은 현재 실리콘밸리에서 소프트웨어 개발자를 채용하거나 그들의 연봉을 결정할 때 기트허브에서의 개인 평가 점수가 큰 영향을 미친다.
 
 > 주문형 직원, 커뮤니티 & 크라우드, 실험, 알고리즘, 인터페이스, 대시보드, 소셜 네트워킹 기술
 
-## Go Pro
+### Go Pro
 우드먼은 서핑을 좋아한다. 2009년 말, 우드먼은 고프로 HD 히어로라는 이름으로 HD급 비디오카메라를 출시했다. 카메라 원가가 기하급수적으로 떨어져 주 고객층이 구매할 수 있는 정도의 가격이 되었다. 2010년에 베스트바이에서 고프로 카메라를 팔자 판매량이 세 배로 늘었다. 2013년 고프로는 384만 대의 카메라를 팔아 총 9억 8,573만 달러으 매출을 올렸다.
 
 | Factor | Description |
@@ -222,7 +201,7 @@ Interface, Dashboard, Experimentation, Autonomy, Social technologies
 
 - 직원들은 팀을 옭길 수 있다.
 - 각 팀에는 손익이 있다. 팀원들은 이익을 공유하며, 실적에 따른 자체 인센티브를 받고, 성과에 따라 월급을 받는다.
-  - 고객 응대 직원에게는 최대의 융통성과 의사결정의 전권이 주어진다.
+- 고객 응대 직원에게는 최대의 융통성과 의사결정의 전권이 주어진다.
 - 팀의 최우선 책임을 회사에서 내려온 일련의 지시 사항을 따르는 것이 아니라 고객 수요를 늘리는 것이다.
 - 누구든 신제품을 제안할 수 있고, 그렇게 제안된 제품은 직원들뿐만 아니라 공급자, 고객들의 투표에 붙여져서 다 함께 어느 프로젝트를 지원할지 결정한다.
 
@@ -234,4 +213,4 @@ Interface, Dashboard, Experimentation, Autonomy, Social technologies
 
 **가장현실 & 증강현실:** 앞으로 2, 3년 내에 아바타 수준의 가장현실이 데스크톱 컴퓨터에서 가능해진다. 구글 글라스를 통해 새로운 애플리케이션들이 나온다. 곧, 원격 대면이 가능해진다.
 
-**비트코인 & 블록체인:** 모든 것을 기록하는 분산 장부 덕분에 신용이 필요 없는 초저가 안전 거래가 가능해진다. =
+**비트코인 & 블록체인:** 모든 것을 기록하는 분산 장부 덕분에 신용이 필요 없는 초저가 안전 거래가 가능해진다.
