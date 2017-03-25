@@ -1,22 +1,23 @@
 # Summary
 * [Introduction](README.md)
 
-
 ### Growth
 * [Relationship Building](/Content/growth/relationship_building.md)
 * [Sales Principle](/Content/growth/sales_principles.md)
-* [Sales Funnel](/Content/growth/sales_funnel.md)
 * [SEO](/Content/growth/seo.md)
 * [Website](/Content/growth/website.md)
 
-
 ### Mission
 * [Execution](/Content/mission/execution.md)
-* [Strategy](/Content/mission/strategy.md)
+  * [Revenue Stream](/Content/mission/execution.md#revenue)
+  * [Roles](/Content/mission/execution.md#roles)
+  * [Strategy](/Content/mission/execution.md#strategy)
 * [Exponential Organizations](/Content/mission/exponential_organizations.md)
 * [Key Performance Indicators](/Content/mission/KPI.md)
-* [Strategy](/Content/mission/strategy.md)
 
 
 ### Finance
 * [Tax](/Content/finance/tax.md)
+
+### Human Resources
+* [Culture](/Content/HR/culture.md)

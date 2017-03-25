@@ -1,4 +1,5 @@
-## Affordable Education
+# Exponential Organizations
+
 ### Features:
  - Books and blog articles as well.
  - Interaction between students and teachers

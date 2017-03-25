@@ -1,9 +1,7 @@
 # Sales Principles
 We sell all the time. Marriage, partners, friends, interview, salary negotiation, trading. We no longer have to view sales as evil. Many sales people have tainted its name. In fact, it's fun as long as one provides great value to others. Sales should never be forced. Sales should be organic to the point customers can't wait to brag with others.
 
-## [Influence] by Dr.Cialdini
-
-[Influence]: https://www.amazon.com/gp/product/006124189X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=006124189X&linkCode=as2&tag=iosgeekcommun-20&linkId=f7232616b76a38fbcd1433f22163b84a
+## Influence by Dr.Cialdini
 
 | Factors  |  Explanation |
 | --- | --- |
@@ -13,6 +11,9 @@ We sell all the time. Marriage, partners, friends, interview, salary negotiation
 | Consistency | Looking for and asking for small first Ex) LinkedIn endorsement. That’s a good way to start. Consistence bias |
 | Liking | People who are similar to us.People who pay us complements. People who cooperate with us.  Before you begin agreements, try to share information for each other. |
 | Consensus | People will look to the actions of others to determine their own. “Please reuse the towel to save the environment (35%) —>  75% of our guests reuse their towels (26% increase). Rather relying on own ability, point out how others are doing already. |
+
+> You may read the book [here](https://www.amazon.com/gp/product/006124189X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=006124189X&linkCode=as2&tag=iosgeekcommun-20&linkId=f7232616b76a38fbcd1433f22163b84a)
+
 
 ## Factors that Increases Social Sharing
 | Factors | Explanation |

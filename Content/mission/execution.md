@@ -1,56 +1,114 @@
 # Execution
-I need to make enough money to a point where I build my social media followers and get to know them.
+Become the #1 iOS instructor and equate the Swift Programming Language with Bob the Developer.
 
-I might have to get an office in Seoul, Korea. Hire people for UX/UI designer. Video Editing and subtitle should be done outside. Front-end and backend developer who speak Korean.
-Hire an assistance, where he/she can learn about programming.
+<br>
+<br>
 
-## Work
+## Current Revenue Stream {#revenue}
 
-### UX/UI Designer
- - Find Offline: 상주: Co-working Space
- - Marketing: Web Design
- - Full-Stack Developer랑 대화하기
- - Design graphics for books, websites
+### 1. Swift Online Courses
+| Course Title | URL | Process | Price |
+| --- | --- | --- | --- |
+|  Intermediate Swift with Bob | learnswiftwithbob.com | Current | $50 |
+| The UIKit Fundamentals with Bob | learnuikitwithbob.com | Not yet | $50 |
+| Functional Programming, MVVM, and RxSwift with Bob | learnrxswiftwithbob.com | Not yet | $50 |
+| Test Driven iOS Development with Bob | testdrivenioswithbob.com | Not yet | $50 |
+| Algorithm and Data Structure in Swift with Bob | learnalgorithmwithbob.com | Not yet |  $50 |
 
-### Part-time (Korean)
-  - 서류 준비
-  - 인력 찾기
-  - 예약: 비디오찍기, 스튜디오 예약, 음식 배달
-  - 물품 사기/배달
-  - Finance: Book keeping
+### 2. Affiliate Sales
+| Platform | Sources |
+| --- | --- |
+| Amazon Associates | Personal website, GitBook documents |
+| Udemy Affiliate Partners | VIPs, email list |
+| Others | Digital Ocean, Bluehost, Envato, TransferWise, Wrike, Adobe |
 
-### Video Editor/Video Recording
- - Upwork for Manual Video Editing
- - Korean for physical location
+### 3. Instructor Partnership
+Partner up and create translated courses with a 20/80 split (Korean, Arabic, Portuguese, Amazon, Indian)
 
-### Full-stack Developer (3명 한국인)
- - React.js, node.js, express.js, MongdoDB, MongoDB Cloud
- - Must speak English
- - One front-end developer
- - One full-stack developer
+## Sales Funnels
+| Platform | Public| Personal |
+| --- | --- | --- |
+| Blog | Call-to-action to learnswiftwithbob.com, social media funnels, email list sign up | Comment engagement |
+| Email | Regular personal update, convert people to email list | Reply and relationship buildings with VIPs  and email list |
+| Facebook | Facebook post update, iOS Developer Group | Bob the Developer and iOS Developer Facebook message |
+| Gitbook | Content, Youtube videos, source code, email list invite | Comment engagement |
+| LinkedIn |Group announcement | Personal share, comment engagement |
+| Thunderclap | Social advertisement | Not available |
+| Twitter | Article share | Direct message, engagement |
+| Instagram | Daily story, post | Direct message |
+| YouTube | Course preview, personal update | Comment engagement, Direct message |
 
-### Bob the Developer
-#### Content
-- Create courses
-- Blog Writing
+> The number one goal is to get to know them at an individual level. Bring each to the email list and engage.
 
-#### Marketing
-- Engage with readers and affiliates, email list
+## Advertisement
+Theme: Personal story and document my journey. Facebook, LinkedIn, Twitter, YouTube, Google AdWord, Instagram.
 
-#### Logistics
-- Communicating with the UX/UI Designer
-- Communicating with the Full-stack developer
-- Monthly payroll
-- Tax
+<br>
+<br>
 
-#### Learning
-- Study computer science and web development
+# Roles {#roles}
 
-## Study Materials
-1. Web Development: (Backend and front-end)
-2. Algorithm/Data Structure
-3. Database 공부
+## Bob the Developer
+|  Role | Detail |
+| --- | --- |
+| Blogger and Instructor | Online courses and blog articles |
+| Marketer | Engagement with readers and affiliates and email list, advertisement |
+| Mediator | Communicate between designers and the development team |
+| HR Manager | Payroll, Raise money, employee benefits, interviews |
+| Captain | Set the purpose and vision. Know the why |
 
-## 현재 Focus
- - 이번년도는 Build my Own platform forever
- - Apply to Harvard: Computer Science. Make friends as many as possible. Get to know any many people as possible
+## Employees
+Founding members consist of
+
+| Job | Roles | Tools | Requirement |
+| --- | --- | --- | --- |
+| Web Developers | Build website with React, Node, Express, MongoDB | JIRA, Trello, Scrum, Mac | Be able to read and write English, one scrum master |
+| UX/UI Designer | Design graphics for books, websites | Sketch, Animation, heydesigner.com | Workflow and animation with Sketch |
+| Part-time | Document, book keeping, logistics | Trello | Be able to execute and responsible |
+| Outsourcing | Video editing, video filming, After Effect | Upwork, Trello | Communication |
+
+<br>
+<br>
+
+# Strategy {#strategy}
+I work towards providing a platform for people to publish and learn.
+
+### Phase 1
+ > Create a platform for people to publish articles and tutorials. However, they register and get interviewed in order to publish in the early stage to ensure quality. They may earn money through affiliate links both from Amazon and Udemy.
+
+#### MVP Features
+| Bloggers | Readers | Both |
+| --- | --- | --- |
+| Markdown/text editor like Medium |  Content from followers | Mention, tags, recommended people |
+| Syntax highlighting |  Highlighting | Comment, notification |
+| Send mass emails to followers | Bookmarks |  Stat, affiliate sales |
+
+> Large companies and institution may be interested in direct messages to increase their brand awareness and generate revenue.
+
+## Supporting Articles
+  - Markdown tutorial
+  - How to send mass emails that work
+  - Marketing in 2017: Relationship building
+  - The purpose and vision
+  - Affiliate structure and payment
+  - How to write a tutorial even if it is technical
+
+### Scale Model
+ | Model | How |
+ | --- | --- |
+ | Staff on Demand | UX/UI Design outside |
+ | Community & Cloud | Publishing platform and cloud computing |
+ | Algorithm | Email service, interest |
+ | Leveraged Asset | People's knowledge and Content |
+ | Engagement | Through comments and open source projects |
+
+### Phase II
+ > Create a platform for people to upload videos and make online courses.
+
+#### GitBook like publishing platform
+Allow anyone to use it including those who are creating open-source so that other startups join and start publishing and get to know about the place. We are all about providing great platform. Also the software people can upload tutorials on the platform and generate revenue as well. They could share updates through the blog as well.  
+
+### Phase III
+ > Create a platform for everyone. Attempt to replace colleges. Focus on practical knowledge. Give people the power to produce content and generate revenue. We should charge %20 for the revenue that instructors earns. No heavy discounting. If can, implement VR/AR.
+
+Open source, community, platform
