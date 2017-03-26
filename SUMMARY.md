@@ -1,5 +1,6 @@
 # Summary
 * [Introduction](README.md)
+* [Document](DOCUMENT.md)
 
 ### Growth
 * [Relationship Building](Content/growth/relationship_building.md)
