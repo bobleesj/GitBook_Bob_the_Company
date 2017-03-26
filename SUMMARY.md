@@ -1,6 +1,6 @@
 # Summary
 * [Introduction](README.md)
-
+<!-- 
 ### Growth
 * [Relationship Building](content/growth/relationship_building.md)
 * [Sales Principle](content/growth/sales_principles.md)
@@ -22,4 +22,4 @@
 * [Tax](content/finance/tax.md)
 
 ### Human Resources
-* [Culture](content/HR/culture.md)
+* [Culture](content/HR/culture.md) -->
