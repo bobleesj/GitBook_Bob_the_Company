@@ -1,6 +1,6 @@
 {
     "root": "./",
-    "title": "Learn Swift with Bob",
+    "title": "Startup Journey with Bob",
     "author": "Bob Lee",
     "description": "Resources for iOS 10 and Swift 3 tutorials",
     "isbn": "",
@@ -16,13 +16,13 @@
        "image-captions": {
              "caption": " _CAPTION_"
          },
-        "favicon": {
-         "shortcut": "assets/images/favicon-16x16.png",
-         "bookmark": "assets/images/favicon-32x32.png",
-         "appleTouch": "assets/images/favicon-96x96.png",
+       "favicon":{
+         "shortcut": "/assets/images/favicon-16x16.png",
+         "bookmark": "/assets/images/favicon-16x16.png",
+         "appleTouch": "/assets/images/favicon-16x16.png",
          "appleTouchMore": {
-             "120x120": "assets/images/apple-icon-120x120.png",
-             "180x180": "assets/images/apple-icon-180x180.png"
+             "120x120": "/assets/images/apple-touch-icon-120x120.png",
+             "180x180": "/assets/images/apple-touch-icon-180x180.png"
          }
        }
      },

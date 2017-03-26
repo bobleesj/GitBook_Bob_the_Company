@@ -6,7 +6,7 @@
 | Blog | Medium, Ray Wenderlich, App Coda We Heart Swift |
 | Q&A | Stack Overflow, Quora |
 | Online Course | Treehouse, Stanford,
-| Book | Raywenderlich, 
+| Book | Raywenderlich,
 | eBook |
 | Conference | Realm.io |
 | YouTube Videos |
@@ -18,6 +18,7 @@ Take a look at this video:
 
 <div align=center>
 
+<img src="/assets/images/favicon-32x32.png"/>
 
 ```mermaid
 graph TD;
