@@ -2,24 +2,24 @@
 * [Introduction](README.md)
 
 ### Growth
-* [Relationship Building](/Content/growth/relationship_building.md)
-* [Sales Principle](/Content/growth/sales_principles.md)
-* [SEO](/Content/growth/seo.md)
-* [Website](/Content/growth/website.md)
+* [Relationship Building](/content/growth/relationship_building.md)
+* [Sales Principle](/content/growth/sales_principles.md)
+* [SEO](/content/growth/seo.md)
+* [Website](/content/growth/website.md)
 
 
 ### Mission
-* [Execution](/Content/mission/execution.md)
-  * [Revenue Stream](/Content/mission/execution.md#revenue)
-  * [Roles](/Content/mission/execution.md#roles)
-  * [Strategy](/Content/mission/execution.md#strategy)
-* [Exponential Organizations](/Content/mission/exponential_organizations.md)
-* [Key Performance Indicators](/Content/mission/KPI.md)
-* [Education Industry](/Content/mission/education_industry.md)
+* [Execution](/content/mission/execution.md)
+  * [Revenue Stream](/content/mission/execution.md#revenue)
+  * [Roles](/content/mission/execution.md#roles)
+  * [Strategy](/content/mission/execution.md#strategy)
+* [Exponential Organizations](/content/mission/exponential_organizations.md)
+* [Key Performance Indicators](/content/mission/KPI.md)
+* [Education Industry](/content/mission/education_industry.md)
 
 
 ### Finance
-* [Tax](/Content/finance/tax.md)
+* [Tax](/content/finance/tax.md)
 
 ### Human Resources
-* [Culture](/Content/HR/culture.md)
+* [Culture](/content/HR/culture.md)
