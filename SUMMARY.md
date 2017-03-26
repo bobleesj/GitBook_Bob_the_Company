@@ -2,7 +2,7 @@
 * [Introduction](README.md)
 
 ### Growth
-* [Relationship Building](/content/growth/relationship_building.md)
+
 * [Sales Principle](/content/growth/sales_principles.md)
 * [SEO](/content/growth/seo.md)
 * [Website](/content/growth/website.md)
