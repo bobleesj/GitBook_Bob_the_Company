@@ -7,13 +7,24 @@
 
     "plugins": [
        "image-captions",
-       "youtube"
+       "youtube",
+       "mermaid-gb3",
+       "favicon"
      ],
 
      "pluginsConfig": {
        "image-captions": {
              "caption": " _CAPTION_"
+         },
+        "favicon": {
+         "shortcut": "assets/images/favicon-16x16.png",
+         "bookmark": "assets/images/favicon-32x32.png",
+         "appleTouch": "assets/images/favicon-96x96.png",
+         "appleTouchMore": {
+             "120x120": "assets/images/apple-icon-120x120.png",
+             "180x180": "assets/images/apple-icon-180x180.png"
          }
+       }
      },
      "styles": {
        "website": "website.css"
