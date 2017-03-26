@@ -1,7 +1,7 @@
 # Search Engine Optimization
 I initially thought word of mouth and social sharing had a lot more weight than organic searches. I was wrong.
 
-<img src="/content/growth/resources/google_seo_traffic.png"/>
+<img src="content/growth/resources/google_seo_traffic.png"/>
 
 ## Google Search
 Content is king.  SEO comes after. However, there are a couple practices I follow.
