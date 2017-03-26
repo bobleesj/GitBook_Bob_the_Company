@@ -7,6 +7,7 @@
 * [SEO](/Content/growth/seo.md)
 * [Website](/Content/growth/website.md)
 
+
 ### Mission
 * [Execution](/Content/mission/execution.md)
   * [Revenue Stream](/Content/mission/execution.md#revenue)
@@ -14,6 +15,7 @@
   * [Strategy](/Content/mission/execution.md#strategy)
 * [Exponential Organizations](/Content/mission/exponential_organizations.md)
 * [Key Performance Indicators](/Content/mission/KPI.md)
+* [Education Industry](/Content/mission/education_industry.md)
 
 
 ### Finance

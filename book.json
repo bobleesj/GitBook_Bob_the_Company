@@ -6,7 +6,8 @@
     "isbn": "",
 
     "plugins": [
-       "image-captions"
+       "image-captions",
+       "youtube"
      ],
 
      "pluginsConfig": {
