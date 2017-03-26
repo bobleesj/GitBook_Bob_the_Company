@@ -40,8 +40,25 @@ Partner up and create translated courses with a 20/80 split (Korean, Arabic, Por
 
 > The number one goal is to get to know them at an individual level. Bring each to the email list and engage.
 
+<div align="center" height=500px>
+
+```mermaid
+graph TD
+     A[Blog]-->B[Social Media]
+     A[Blog]-->C[Email List]
+     A[Blog]-->F[Gitbook]
+     A[Blog]-->G[Website]
+     B[Social Media]-->D[Course]
+     C[Email List]-->D[Course]
+     F[Gitbook]-->D[Course]
+     F[Gitbook]-->C[Email List]     
+     G[Website]-->D[Course]
+     G[Website]-->C[Email List]
+```
+</div>
+
 ## Advertisement
-Theme: Personal story and document my journey. Facebook, LinkedIn, Twitter, YouTube, Google AdWord, Instagram.
+Theme: Personal story and document my journey. Facebook, LinkedIn, Twitter, YouTube, Google AdWord, Instagram, Thunderclap
 
 <br>
 <br>
@@ -73,10 +90,10 @@ Founding members consist of
 # Strategy {#strategy}
 I work towards providing a platform for people to publish and learn.
 
-### Phase 1
+## Phase 1
  > Create a platform for people to publish articles and tutorials. However, they register and get interviewed in order to publish in the early stage to ensure quality. They may earn money through affiliate links both from Amazon and Udemy.
 
-#### MVP Features
+### MVP Features
 | Bloggers | Readers | Both |
 | --- | --- | --- |
 | Markdown/text editor like Medium |  Content from followers | Mention, tags, recommended people |
@@ -85,7 +102,11 @@ I work towards providing a platform for people to publish and learn.
 
 > Large companies and institution may be interested in direct messages to increase their brand awareness and generate revenue.
 
-## Supporting Articles
+
+### Value Proposition
+<img src="/Content/mission/assets/images/blogging_platform.png" alt="Blogging platform value proposition diagram"/>
+
+### Supporting Articles
   - Markdown tutorial
   - How to send mass emails that work
   - Marketing in 2017: Relationship building
@@ -102,11 +123,29 @@ I work towards providing a platform for people to publish and learn.
  | Leveraged Asset | People's knowledge and Content |
  | Engagement | Through comments and open source projects |
 
-### Phase II
+## Phase II
  > Create a platform for people to upload videos and make online courses.
 
-#### GitBook like publishing platform
+### Value Proposition
+<img src="/Content/mission/assets/images/online_course_platform.png" alt="Online course platform value proposition diagram"/>
+
+
+### GitBook like publishing platform
 Allow anyone to use it including those who are creating open-source so that other startups join and start publishing and get to know about the place. We are all about providing great platform. Also the software people can upload tutorials on the platform and generate revenue as well. They could share updates through the blog as well.  
+
+### MVP Features
+| Feature | Benefits on Students | Benefits on Instructors | Notes |
+| --- | --- | --- | --- |
+| Direct Messaging | Ask questions directly | Build connections | No spam message allowed. Personal usage |
+| Private online tutoring | Personal help | Extra income | Brings the world together. This is what makes a difference. Personal connection is appreciated.  |
+| Q&A Section | Ask questions directly and use leveraged asset | Through answering, instructors may gain personal brand and exposure | Bring new people to the website through Google Search |
+
+> I will work towards providing AR/VR
+
+
+
+ The ability to manage students and collect email lists if students agree | Q&A Section |
+| Q&A Section to ask for help | Increase personal brand through Q&A |  
 
 ### Phase III
  > Create a platform for everyone. Attempt to replace colleges. Focus on practical knowledge. Give people the power to produce content and generate revenue. We should charge %20 for the revenue that instructors earns. No heavy discounting. If can, implement VR/AR.
