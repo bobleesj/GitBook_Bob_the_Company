@@ -1,7 +1,7 @@
 # Search Engine Optimization
 I initially thought word of mouth and social sharing had a lot more weight than organic searches. I was wrong.
 
-<img src="/content/growth/resources/google_seo_traffic.png"/>
+<img src="/Content/growth/resources/google_seo_traffic.png"/>
 
 ## Google Search
 Content is king.  SEO comes after. However, there are a couple practices I follow.
@@ -22,11 +22,11 @@ Content is king.  SEO comes after. However, there are a couple practices I follo
 ## Google Trend Keyword Research
 Before I publish websites or blog posts, I do keyword research. I choose keywords whose popularity is in between. It's hard to rank well with generic keywords. For instance, instead of, "How to become happy". I'd choose, "How to become happy while working full-time".
 
-<img src="/content/growth/resources/Google Trend Research.png"/>
+<img src="/Content/growth/resources/Google Trend Research.png"/>
 
 
 ## Complete Overview
-<img src="/content/growth/resources/seo_periodic_table.png"/>
+<img src="/Content/growth/resources/seo_periodic_table.png"/>
 
 <br>
 <br>
