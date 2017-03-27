@@ -3,7 +3,6 @@
 http://www.investopedia.com/
 
 
-
 ## Dividend
 For every share of a dividend stock that you own, you are paid a portion of the company’s earnings. You get paid simply for owning the stock.
 
