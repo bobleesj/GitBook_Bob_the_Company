@@ -91,7 +91,21 @@ Supermario and flower analogy: People want the feeling, not the flower.
 | Name | Explanation | Example |
 | --- | --- | --- |
 | Anchoring/Focalism |  The human human tendency to rely too heavily on the first piece of information offered when making decisions | Buying a car and adding new features. |
-| Automation Bias | The propensity for humans to favor suggestions from automated decisions making systems and to ignore contradictory information made without automation, even if it is correct. | Learning how to use keyboard shortcuts even though it increase productivity |
+| Automation Bias | The propensity for humans to favor suggestions from automated decisions making systems and to ignore contradictory information made without automation, even if it is correct. | Learning how to use keyboard shortcuts even though it increases productivity |
+| Confirmation Bias | The tendency to search for or interpret information in a way that confirms one's preconceptions | Reddit, comments |
+| Gambler's Fallacy | We tend to put a tremendous amount of weight on previous events. |  Coin-tossing. After 4 consecutive heads, we are more likely to say the next will be a tail even though the outcome is independent of the previous toss |
+| Post-Purchase Rationalization | Humans subconsciously justify purchases | Buying unnecessary items online |
+| Observational Selection Bias | An effect of suddenly noticing things we didn't notice that much before — but we wrongly assume that the frequency has increased | Learning a new word |
+| Negative Bias | Humans tend to pay more attention to bad news to survive| Media |
+| Bandwagon Effect | Though we're often unconscious of it, we love to go with the flow of the crowd.  | Demonstration, civil rights movement |
+| Ben Franklin Effect |  A person who has performed a favor for someone is more likely to do another favor for that person than they would be if they had received a favor from that person. | Party invitation, gift sending |
+| Cheerleader Effect |  People think individuals are more attractive when they are in a group. The term was mentioned in how I met your mother | Going out to a bar and club |
+| Bias Blind Spot | The tendency to see oneself as less biased than other people while failing to see the impact of biases on one's own judgment. It is created by Emily Pronin, a social psychologist from Princeton University | Media anchors |
+| Attentional Bias | Attentional bias is the tendency of our perception to be affected by our recurring thoughts. | People who frequently think about the clothes they wear pay more attention to the clothes of others. I think about coding and startups. |
+| Ostrich Effect | The decision to ignore dangerous or negative information by "burying" one's head in the sand | Investors check the value of their holdings significantly less often during bad markets. |
+| Outcome bias | Judging a decision based on the outcome - rather than how exactly the decision was made | Trying to be a gambler after having won once big |
+| Zero-risk bias | We love certainty if it's counterproductive | Managing employees. It's hard to let them to free |
+
 
 ## Best Methods to Build Rapports
 **Rapport:** Rapport is built through by feeling of commonality. We feel the spark. Too many people rely on words as to get rapport with each other. Only 7% is important. We mirror each other. People like people who are like themselves. Customers don't want to see those who look at the wallet, but heart.

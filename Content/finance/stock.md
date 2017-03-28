@@ -17,3 +17,9 @@ In addition to regular dividends, there are times a company may pay a special on
 Dividends must be declared (i.e., approved) by a company’s Board of Directors each time they are paid. There are four important dates to remember regarding dividends.
 
 The vast majority of dividends are paid four times a year on a quarterly basis, but some companies pay their dividends semi-annually (twice a year), annually (once a year), monthly, or more rarely, on no set schedule whatsoever (called “irregular” dividends).
+
+
+## Employee Stock Option - ESO
+A stock option gives the recipient the right to acquire company common stock at a set exercise price established at the time of grant of the option. If the option is granted early in the life cycle of the company, it will likely be at a favorably low exercise price.
+
+mployees typically must wait for a specified vesting period to pass before they can exercise the option and buy the company stock, because the idea behind stock options is to align incentives between the employees and shareholders of a company. Shareholders want to see the stock price increase, so rewarding employees as the stock price goes up over time guarantees that everyone has the same goals in mind.

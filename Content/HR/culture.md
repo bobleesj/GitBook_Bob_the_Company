@@ -4,12 +4,11 @@
 | Flexible working time | Autonomy
 | Anyone can leave any time they want to. Only result and process matter | Autonomy |
 | Provide best tools for mouse, keyboard, MacBook, hard drive, and monitor | Tools |
-| Books coverage | Learning |
+| Learning and self-education support | Learning |
 | Travel and meal expense coverage | Finance  |
 | Incentive based | Finance |
 
-
-  Paychecks are distributed every [dates] after [time]. If the pay date lands on a holiday, paychecks will be distributed on the closest business day before the holiday. The paycheck will reflect work performed for the [enter pay period dates, commission period dates, etc.] period.
+Paychecks are distributed every [dates] after [time]. If the pay date lands on a holiday, paychecks will be distributed on the closest business day before the holiday. The paycheck will reflect work performed for the [enter pay period dates, commission period dates, etc.] period.
 
 # Danger Zone
 ## Equal Opportunity Employment
