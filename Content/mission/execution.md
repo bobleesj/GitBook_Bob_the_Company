@@ -13,6 +13,7 @@ Become the #1 iOS instructor and equate the Swift Programming Language with Bob 
 | The UIKit Fundamentals with Bob | learnuikitwithbob.com | Not yet | $50 |
 | Functional Programming, MVVM, and RxSwift with Bob | learnrxswiftwithbob.com | Not yet | $50 |
 | Test Driven iOS Development with Bob | testdrivenioswithbob.com | Not yet | $50 |
+| Full-Stack iOS Development with Vapor | fullstackioswithbob.com | Not yet | $50 | 
 | Algorithm and Data Structure in Swift with Bob | learnalgorithmwithbob.com | Not yet |  $50 |
 
 ### 2. Affiliate Sales

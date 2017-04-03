@@ -21,6 +21,7 @@
 
 ### Finance
 * [Tax](Content/finance/tax.md)
+* [Stock Market](Content/finance/stock.md)
 
 ### Human Resources
 * [Culture](Content/HR/culture.md)
