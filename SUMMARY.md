@@ -1,27 +1,31 @@
 # Summary
 * [Introduction](README.md)
-* [Document](DOCUMENT.md)
 
-### Growth
-* [Relationship Building](Content/growth/relationship_building.md)
-* [Sales Principle](Content/growth/sales_principles.md)
-* [SEO](Content/growth/seo.md)
-* [Website](Content/growth/website.md)
+## Instructor Partnership
+* [Overview](/content/course-creation/overview.md)
+  * [File Organization Guide](/content/course-creation/file-organization-guide.md)
+  * [GitBook Document Guide](/content/course-creation/gitbook-document-guide.md)
+  * [Effective Example Guide](/content/course-creation/effective-example-guide.md)
+  * [Bob's Lecture Guide](/content/course-creation/bob-lecture-guide.md)
+  * [Video Editing Guide](/content/course-creation/video-editing-guide.md)
+  * [Udemy Policy Guide](/content/course-creation/udemy-policy-guide.md)
 
-
-### Mission
-* [Execution](Content/mission/execution.md)
-  * [Revenue Stream](Content/mission/execution.md#revenue)
-  * [Roles](Content/mission/execution.md#roles)
-  * [Strategy](Content/mission/execution.md#strategy)
-* [Exponential Organizations](Content/mission/exponential_organizations.md)
-* [Key Performance Indicators](Content/mission/KPI.md)
-* [Education Industry](Content/mission/education_industry.md)
+## Promotion
+ * [Overview](/content/promotion/overview.md)
+   * [Personal Branding](/content/promotion/personal-branding.md)
+   * [Lead Generation](/content/promotion/lead-generation.md)
+   * [Student Management](/content/promotion/student-management.md)
 
 
-### Finance
-* [Tax](Content/finance/tax.md)
-* [Stock Market](Content/finance/stock.md)
 
-### Human Resources
-* [Culture](Content/HR/culture.md)
+<!-- ### Mission
+* [Execution](/content/mission/execution.md)
+  * [Revenue Stream](/content/mission/execution.md#revenue)
+  * [Roles](/content/mission/execution.md#roles)
+  * [Strategy](/content/mission/execution.md#strategy)
+* [Exponential Organizations](/content/mission/exponential_organizations.md)
+* [Key Performance Indicators](/content/mission/KPI.md)
+* [Education Industry](/content/mission/education_industry.md) -->
+
+<!-- ### Finance
+* [Tax](/content/finance/tax.md) -->
