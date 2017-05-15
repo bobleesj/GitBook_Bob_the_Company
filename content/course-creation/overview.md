@@ -31,6 +31,10 @@ I like to use jump cut for introduction and conclusion videos so that I don't ha
 
 > Video Editing Guide
 
+> [Spreadsheet] progress management
+
+[Google Spreadsheet]: https://docs.google.com/spreadsheets/d/11-O3amCJin7L3N191H_D71evUunnEUmogyIbhzwP71M/edit?usp=sharing
+
 ### Step 7. Publish
 You may bulk upload lessons on Udemy. If it is your first time making a course on Udemy, you have to submit a test video. You can find more [here](https://teach.udemy.com/test-videos/).
 

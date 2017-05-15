@@ -1,20 +1,21 @@
 # Summary
 * [Introduction](README.md)
 
-## Instructor Partnership
+## I. Instructor Partnership
 * [Overview](/content/course-creation/overview.md)
-  * [File Organization Guide](/content/course-creation/file-organization-guide.md)
-  * [GitBook Document Guide](/content/course-creation/gitbook-document-guide.md)
-  * [Effective Example Guide](/content/course-creation/effective-example-guide.md)
-  * [Bob's Lecture Guide](/content/course-creation/bob-lecture-guide.md)
-  * [Video Editing Guide](/content/course-creation/video-editing-guide.md)
-  * [Udemy Policy Guide](/content/course-creation/udemy-policy-guide.md)
+* [Organization Guide](/content/course-creation/file-organization-guide.md)  
+* [GitBook Document Guide](/content/course-creation/gitbook-document-guide.md)
+* [Effective Example Guide](/content/course-creation/effective-example-guide.md)
+* [Bob's Lecture Guide](/content/course-creation/bob-lecture-guide.md)
+* [Video Editing Guide](/content/course-creation/video-editing-guide.md)
+* [Udemy Policy Guide](/content/course-creation/udemy-policy-guide.md)
 
-## Promotion
- * [Overview](/content/promotion/overview.md)
-   * [Personal Branding](/content/promotion/personal-branding.md)
-   * [Lead Generation](/content/promotion/lead-generation.md)
-   * [Student Management](/content/promotion/student-management.md)
+
+## II. Promotion
+* [Overview](/content/promotion/overview.md)
+* [Personal Branding](/content/promotion/personal-branding.md)
+* [Lead Generation](/content/promotion/lead-generation.md)
+* [Student Management](/content/promotion/student-management.md)
 
 
 
