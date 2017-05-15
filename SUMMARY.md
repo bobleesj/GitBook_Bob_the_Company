@@ -11,12 +11,11 @@
 * [Udemy Policy Guide](/content/course-creation/udemy-policy-guide.md)
 
 
-## II. Promotion
+<!-- ## II. Promotion
 * [Overview](/content/promotion/overview.md)
 * [Personal Branding](/content/promotion/personal-branding.md)
 * [Lead Generation](/content/promotion/lead-generation.md)
-* [Student Management](/content/promotion/student-management.md)
-
+* [Student Management](/content/promotion/student-management.md) -->
 
 
 <!-- ### Mission
