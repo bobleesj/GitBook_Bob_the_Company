@@ -1,12 +1,12 @@
 # File Organization Guide
 
 ## Source Code Management
-Connect Dropbox folder with Github so that you may backup and allow better collaboration. Refer to the Learn Swift with Bob [Dropbox Folder]((https://www.dropbox.com/sh/jd1qxvciwiuiwsu/AADvYo-2rusI4LR-5q3t0nDca?dl=0).
+Upload files on Dropbox to easily distribute the files on GitBook. Please refer to how the source code is managed in the Learn Swift with Bob [Dropbox Folder](https://www.dropbox.com/sh/jd1qxvciwiuiwsu/AADvYo-2rusI4LR-5q3t0nDca?dl=0).
 
-### Naming Guideline
-The name is lower cased and connected with `_`. Remove filer/stop words such as `of`, `the`, `a`, `and`, `for`, `by`. Lesson 4 of Chapter 4 should be
+## Source Code Naming Guideline
+The name is lowercased and connected with `_`. Remove filer/stop words such as `of`, `the`, `a`, `and`, `for`, `by`. Lesson 4 of Chapter 4  should be
 
-> 4004_delegate_data_source (Preferred)
+> 4004_delegate_data_source
 
-### Source Code Link
-Students want to download the source code. Instead of using Github, copy the custom link from Dropbox as shown on the  [spreadsheet](https://docs.google.com/spreadsheets/d/11-O3amCJin7L3N191H_D71evUunnEUmogyIbhzwP71M/edit?usp=sharing).
+## Progress Management
+You are encouraged to use a spreadsheet to track your progress and organize source code and external links. Please take a look at how Learn Swift with Bob is organized [here](https://docs.google.com/spreadsheets/d/11-O3amCJin7L3N191H_D71evUunnEUmogyIbhzwP71M/edit?usp=sharing).

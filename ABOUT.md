@@ -1,13 +1,11 @@
 
-# Bob the Developer
-
-## Brand
-I've built the name that iOS developers and students recognize and love. Tutorials have been translated by multiple languages and shared by major newsletters such as [iOS Dev Weekly]. Along with conference speaking invites, I rank 2nd as iOS blogger on [Medium] with 14,000 followers and thousands of daily visitors. I distribute my work as the editor of the largest iOS [Facebook Page].
+# About
+Bob the Developer is the brand iOS developers and students recognize and cherish. Tutorials have been translated by multiple languages and shared by major newsletters such as [iOS Dev Weekly]. Along with conference invites, the blog is ranked 2nd on [Medium] with 14,000 followers and thousands of daily visitors. The work is distributed via the largest iOS [Facebook Page] as the admin.
 
 [iOS Dev Weekly]: https://iosdevweekly.com/
 [iOS Goodies]: http://ios-goodies.com/
 [Medium]: https://medium.com/search/publications?q=iOS
-[Facebook Page]: (https://www.facebook.com/apple.ios.developers/  
+[Facebook Page]: https://www.facebook.com/apple.ios.developers/  
 
 ## Quality
 The Google search results indicate the quality of content based on various factors including visitors, bound rate, and social shares.
@@ -42,5 +40,16 @@ The Google search results indicate the quality of content based on various facto
 
 > **Note:** As of now, 32 articles have been published.  Most appear on the first page of the search. The result may vary depending on the region and time.
 
-## Vision
-Having grown up in developing countries, I work towards providing affordable and global education. I look for ways to scale and bring people who find their purpose through contributing, helping, giving back to the community.
+
+## Course
+| Course | Description | Timeline | Rating |
+| --- | --- |:---:|:---:|
+| [Learn Swift with Bob] | Understand advanced enum, memory management, advanced OOP, intro to functional programming with closures, advanced generics |  May 2017 | 4.8 |
+| The UIKit Fundamentals with Bob | Build apps without storyboard and utilize protocol oriented reusable cells. Realm database. The life cycle of App, View, and Cell. Custom delegate and data source | July 2017 | N/A |
+| Learn RxSwift with Bob |  Create explicit and stream driven apps with reactive programming with MVVM | Sept 2017 | N/A |
+
+[Learn Swift with Bob]: https://www.udemy.com/learn-swift-with-bob/?couponCode=BOBTHEDEVELOPER
+
+
+## Purpose
+The mission of Bob the Developer is to work towards providing affordable and global education. We look for talented individuals who find their fulfillment through contributing, helping, and giving back to the community.

@@ -1,7 +1,4 @@
-# Bob's Lecture Guide
-
-
-
+# Lecture Guide
 
 ## Software and Hardware
 

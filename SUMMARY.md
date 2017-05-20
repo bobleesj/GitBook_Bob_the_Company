@@ -1,14 +1,14 @@
 # Summary
 * [Team Bob the Developer](README.md)
-* [Bob the Developer](BRAND.md)
+* [About](ABOUT.md)
 
 ## Instructor Partnership
 * [Overview](/content/course-creation/overview.md)
-* [Organization Guide](/content/course-creation/file-organization-guide.md)  
+* [File Organization Guide](/content/course-creation/file-organization-guide.md)  
 * [GitBook Document Guide](/content/course-creation/gitbook-document-guide.md)
 * [Effective Example Guide](/content/course-creation/effective-example-guide.md)
-* [Bob's Lecture Guide](/content/course-creation/bob-lecture-guide.md)
-* [Video Editing Guide](/content/course-creation/video-editing-guide.md)
+* [Lecture Guide](/content/course-creation/lecture-guide.md)
+<!-- * [Video Editing Guide](/content/course-creation/video-editing-guide.md) -->
 
 <!-- ## II. Promotion
 * [Overview](/content/promotion/overview.md)
